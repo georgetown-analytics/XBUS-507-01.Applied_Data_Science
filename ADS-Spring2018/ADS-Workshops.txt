@@ -1,0 +1,8 @@
+Applied Workshop Scenario 1
+
+You are to treat this from the perspective of a business case analysis. As such, establish a business problem to resolve, explain your data set, what steps you intend to take for feature selection and why they are important. 
+
+Please use concrete examples to make your argument less abstract. As such, this will require you to find a data set, which cannot be related to your Capstone project.  You will need to establish a hypothesis, explain your data set, what steps you intend to take for feature selection and why they are important. Additionally, it may be helpful to select a novel data set, from a subject where you have a level of expertise. Please use examples  and references from your data. Finally, please provide access your data, via a URL to its source or as an attachment, depending on file size.  
+
+
+Applied Workshop Scenario 2
